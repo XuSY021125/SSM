@@ -1,10 +1,6 @@
 package com.xsy.ssm.pojo;
 
-/**
- * Date:2022/7/11
- * Author:ybc
- * Description:
- */
+
 public class Employee {
 
     private Integer empId;
