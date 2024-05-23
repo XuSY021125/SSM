@@ -16,9 +16,6 @@ import javax.jws.WebParam;
 import java.util.List;
 
 /**
- * Date:2022/7/11
- * Author:ybc
- * Description:
  * 查询所有的员工信息-->/employee-->get
  * 查询员工的分页信息-->/employee/page/1-->get
  * 根据id查询员工信息-->/employee/1-->get
