@@ -5,11 +5,6 @@ import com.github.pagehelper.PageInfo;
 
 import java.util.List;
 
-/**
- * Date:2022/7/11
- * Author:ybc
- * Description:
- */
 public interface EmployeeService {
 
     /**
